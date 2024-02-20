@@ -1,0 +1,80 @@
+.container{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.container h1{
+    color: rgb(18, 117, 84);
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+.container1 input{
+   width: 28%;
+   border-color: rgb(18, 117, 84);
+   padding: 10px 0px;
+   margin-right: 10px;
+   border-radius: 5px;
+}
+
+.container1 button{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(18, 117, 84);
+    padding: 10px 0px;
+    width: 10%;
+}
+
+.container2{
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.box{
+    background-color:rgb(58, 91, 80);
+    color: white;
+    padding: 5px 5px;
+    border-radius: 5px;
+    width:25%;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 20px;
+    
+}
+
+.Total{
+    display: flex;
+    margin-left: 50px;
+  
+}
+
+.box button{
+    background-color:brown;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    width: 150px;
+    /* padding: 15px; */
+    margin-left: 30px;
+}
+
+
+
+.status{
+    display: flex;
+}
+
+.option{
+    margin-left: 20px;
+    padding: 0px 30px;
+    background-color:bisque;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.StatusFilter{
+    display: flex;
+}
